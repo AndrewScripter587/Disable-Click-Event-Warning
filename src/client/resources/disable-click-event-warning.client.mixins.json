@@ -3,7 +3,7 @@
   "package": "com.andrewgaming.nocewarn.mixin.client",
   "compatibilityLevel": "JAVA_21",
   "client": [
-    "DisableWarningMixin"
+    "ClientPlayNetworkHandlerMixin"
   ],
   "injectors": {
     "defaultRequire": 1
